@@ -18,6 +18,13 @@ public class Main {
         pagesPrinted = printer.printPages(2);
         System.out.println("Pages printed was " + pagesPrinted +" new total print count for printer = " +printer.getPagesPrinted());
         // some changes
-        // edited on github 
+        // edited on github
+
+        //git init
+        // git status
+        // git add <fileName>
+        // git commit -m "some commit message"
+        // git push -u origin <name of branch>
+
     }
 }
